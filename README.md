@@ -33,7 +33,7 @@ To run MealMate locally, follow these steps:
 ## Deployment
 MealMate is deployed on Vercel, providing a seamless and efficient hosting solution.
 
-(Live Demo)[https://meal-mate-three.vercel.app/]
+[Live Demo](https://meal-mate-three.vercel.app/)
 
 ## Technologies Used
 - ReactJS
